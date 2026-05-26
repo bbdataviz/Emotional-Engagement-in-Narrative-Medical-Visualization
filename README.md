@@ -28,6 +28,7 @@ compared to a generalized explanatory narrative.
 ## 🧪 Study Design
 
 ### Hypotheses
+
 - H1: Including a fictitious individual protagonist increases emotional arousal.
 - H2: The individual story elicits stronger negative empathic emotions.
 - H3: Viewing order influences emotional engagement and physiological responses.
@@ -35,9 +36,11 @@ compared to a generalized explanatory narrative.
 ### Methodology
 
 A mixed-methods study (N=26) combined:
+
 - electrodermal activity (EDA)
 - eye tracking
 - questionnaires
+- 
 to investigate emotional engagement dynamics, viewing behavior, and self-reported emotional responses.
 
 Participants viewed two closely matched narrative visualization prototypes differing primarily in narrative framing:
