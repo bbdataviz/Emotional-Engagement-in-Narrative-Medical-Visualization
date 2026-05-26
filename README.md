@@ -35,6 +35,8 @@ compared to a generalized explanatory narrative.
 
 ### Methodology
 
+![Methodology workflow](./visualizations/methodology-workflow)
+
 A mixed-methods study (N=26) combined:
 
 - electrodermal activity (EDA)
