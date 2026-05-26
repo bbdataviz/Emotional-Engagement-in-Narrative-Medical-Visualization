@@ -40,7 +40,7 @@ A mixed-methods study (N=26) combined:
 - electrodermal activity (EDA)
 - eye tracking
 - questionnaires
-- 
+  
 to investigate emotional engagement dynamics, viewing behavior, and self-reported emotional responses.
 
 Participants viewed two closely matched narrative visualization prototypes differing primarily in narrative framing:
