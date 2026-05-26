@@ -35,7 +35,7 @@ compared to a generalized explanatory narrative.
 
 ### Methodology
 
-![Methodology workflow](./visualizations/methodology-workflow.pdf)
+![Methodology workflow](./visualizations/methodology-workflow.png)
 
 A mixed-methods study (N=26) combined:
 
