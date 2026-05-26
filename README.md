@@ -96,6 +96,8 @@ Not included:
 - raw biometric recordings
 - identifiable participant data
 
+--- 
+
 ## 📈 Results Overview
 
 The results indicate stronger physiological responses associated with the individual character-driven narrative, particularly in peak-based EDA measures.
@@ -137,7 +139,7 @@ Participants who viewed the individual story first tended to exhibit stronger ov
 
 ## 🧠 What I Learned
 
-...
+[coming soon]
 
 ---
 
@@ -154,4 +156,4 @@ Raw eye-tracking recordings, physiological recordings, and identifiable particip
 
 ## 📄 License
 
-...
+This project is licensed under the MIT License. Copyright (c) 2026 Beatrice Budich
