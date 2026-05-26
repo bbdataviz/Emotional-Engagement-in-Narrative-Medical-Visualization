@@ -54,7 +54,12 @@ Time-resolved physiological analysis was used to identify emotionally salient st
 
 ## ⚙️ Analysis Workflow
 
-The repository includes selected workflows for:
+The project workflow follows four main stages:
+
+1. data preparation
+2. preprocessing and signal analysis
+3. statistical evaluation
+4. result visualization
 
 ### Electrodermal Activity (EDA)
 - signal preprocessing
