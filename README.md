@@ -129,7 +129,7 @@ Add whitespace using empty rows or <br>
 
 For example:
 
-<table align="center" width="1000">
+<table align="center">
   <tr>
     <td align="center">
       <img src="./results/eda_plots/ind-vs-gen.png" height="500"><br>
@@ -140,16 +140,13 @@ For example:
       <em>Participant groups</em>
     </td>
   </tr>
-</table>
-
-<table align="center" width="900">
   <tr>
     <td align="center">
       <img src="./results/eda_plots/gender.png" height="500"><br>
       <em>Story perspective</em>
     </td>
     <td align="center">
-      <img src="./results/eda_plots/groups-parallelCoords.png" width="400"><br>
+      <img src="./results/eda_plots/groups-parallelCoords.png" width="410"><br>
       <em>Participant groups</em>
     </td>
   </tr>
