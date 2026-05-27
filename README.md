@@ -131,6 +131,19 @@ For example:
 
 <table width="900">
   <tr>
+    <td align="center">
+      <img src="./results/eda_plots/ind-vs-gen.png" height="500"><br>
+      <em>Story perspective</em>
+    </td>
+    <td align="center">
+      <img src="./results/eda_plots/groups.png" height="500"><br>
+      <em>Participant groups</em>
+    </td>
+  </tr>
+</table>
+
+<table width="900">
+  <tr>
     <td><br></td>
     <td><br></td>
   </tr>
