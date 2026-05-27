@@ -163,7 +163,7 @@ Participants who viewed the individual story first tended to exhibit stronger ov
   <tr>
     <td align="center">
       <img src="./results/story_elements/level1.png" height="500"><br>
-      <sub>Story element analysis at detailed granularity</sub>
+      <sub>Story element analysis related to the three highest EDA amplitudes per participant with detailed granularity</sub>
     </td>
     <td align="center">
       <img src="./results/story_elements/level2.png" height="500"><br>
