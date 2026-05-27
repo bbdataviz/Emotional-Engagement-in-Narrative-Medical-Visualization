@@ -143,11 +143,11 @@ For example:
   <tr>
     <td align="center">
       <img src="./results/eda_plots/gender.png" height="500"><br>
-      <em>Story perspective</em>
+      <em>Gender differences</em>
     </td>
     <td align="center">
       <img src="./results/eda_plots/groups-parallelCoords.png" width="410"><br>
-      <em>Participant groups</em>
+      <em>Emotional arousal trajectories</em>
     </td>
   </tr>
 </table>
