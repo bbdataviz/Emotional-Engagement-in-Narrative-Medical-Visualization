@@ -133,7 +133,7 @@ Participants who viewed the individual story first tended to exhibit stronger ov
 - Python
 - R
 - tidyverse, incl. ggplot2
-- statistics packages, e.g., stats, effectsize
+- R statistics packages, e.g., stats, effectsize
 
 ---
 
