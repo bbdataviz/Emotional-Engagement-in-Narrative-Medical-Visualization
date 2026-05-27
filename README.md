@@ -137,7 +137,7 @@ Participants who viewed the individual story first tended to exhibit stronger ov
       <img src="./results/eda_plots/gender.png" height="500"><br>
       <sub>Gender differences</sub>
     </td>
-    <td align="center" style="background-color: white">
+    <td align="center">
       <img src="./results/eda_plots/groups-parallelCoords.png" width="400"><br>
       <sub>Emotional arousal trajectories</sub>
     </td>
@@ -157,11 +157,11 @@ Participants who viewed the individual story first tended to exhibit stronger ov
 <table>
   <tr>
     <td align="center">
-      <img src="./results/story_elements/level-1.png" height="500"><br>
+      <img src="./results/story_elements/level1.png" height="500"><br>
       <sub>Story element analysis on finer level</sub>
     </td>
     <td align="center">
-      <img src="./results/story_elements/level-2.png" height="500"><br>
+      <img src="./results/story_elements/level2.png" height="500"><br>
       <sub>Story element summary</sub>
     </td>
   </tr>
@@ -172,11 +172,11 @@ Participants who viewed the individual story first tended to exhibit stronger ov
 <table>
   <tr>
     <td align="center">
-      <img src="./results/questionnaire_plots/emotion-types-ind+gen.png" height="500"><br>
+      <img src="./results/questionnaire_plots/emotion-types-ind+gen.png" width="600"><br>
       <sub>Emotion types</sub>
     </td>
     <td align="center">
-      <img src="./results/questionnaire_plots/user-engagement.png" height="500"><br>
+      <img src="./results/questionnaire_plots/user-engagement.png" width="200"><br>
       <sub>User engagement summary</sub>
     </td>
   </tr>
