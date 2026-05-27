@@ -84,6 +84,7 @@ The project workflow follows four main stages:
 
 Statistical analysis was conducted in R, depending on the data distribution and hypothesis formulation. 
 The analysis used t-test, Wilcoxon test, and effect sizes such as Cohen's d or odds ratio.
+
 ---
 
 ## 📊 Repository Contents
@@ -123,7 +124,6 @@ Participants who viewed the individual story first tended to exhibit stronger ov
 ## 📸 Visualizations
 
 ### EDA-related plots
-
 
 <table>
   <tr>
