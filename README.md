@@ -129,7 +129,7 @@ Add whitespace using empty rows or <br>
 
 For example:
 
-<table align="center" width="900">
+<table align="center" width="1000">
   <tr>
     <td align="center">
       <img src="./results/eda_plots/ind-vs-gen.png" height="500"><br>
