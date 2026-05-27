@@ -146,7 +146,7 @@ Participants who viewed the individual story first tended to exhibit stronger ov
 
 <br>
 
-<div width="80%">
+<div width="60%">
   <p align="center">
     <img src="./results/eda_plots/matrix-ind+gen-first.png" width="850"><br>
     <sub>Aggregated emotional arousal during each story piece (slide) per participants</sub>
