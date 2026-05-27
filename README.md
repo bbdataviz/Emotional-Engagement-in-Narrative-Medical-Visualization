@@ -153,10 +153,34 @@ Participants who viewed the individual story first tended to exhibit stronger ov
 
 
 ### Eye-tracking
-[coming soon]
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./results/story_elements/level-1.png" height="500"><br>
+      <sub>Story element analysis on finer level</sub>
+    </td>
+    <td align="center">
+      <img src="./results/story_elements/level-2.png" height="500"><br>
+      <sub>Story element summary</sub>
+    </td>
+  </tr>
+</table>
 
 ### Questionnaires
-[coming soon]
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./results/questionnaire_plots/emotion-types-ind+gen.png" height="500"><br>
+      <sub>Emotion types</sub>
+    </td>
+    <td align="center">
+      <img src="./results/questionnaire_plots/user-engagement.png" height="500"><br>
+      <sub>User engagement summary</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
