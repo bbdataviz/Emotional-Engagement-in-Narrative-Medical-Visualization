@@ -177,7 +177,7 @@ Participants who viewed the individual story first tended to exhibit stronger ov
 <br>
 
 <p align="center">
-  <img src="./results/questionnaire_plots/user-engagement.png" width="400"><br>
+  <img src="./results/questionnaire_plots/user-engagement.png" width="600"><br>
   <sub>Aggregated emotional arousal during each story piece (slide) per participants</sub>
 </p>
 
