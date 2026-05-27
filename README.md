@@ -147,14 +147,19 @@ Participants who viewed the individual story first tended to exhibit stronger ov
       <sub>Emotional arousal trajectories</sub>
     </td>
   </tr>
+
+  <tr>
+    <td align="center">
+      <img src="./results/eda_plots/matrix-ind+gen-first.png" width="600"><br>
+      <sub>Aggregated emotional arousal during each story piece (slide) per participant</sub>
+    </td>
+  </tr>
+  
 </table>
 
 <br>
 
-<p align="center">
-  <img src="./results/eda_plots/matrix-ind+gen-first.png" width="600"><br>
-  <sub>Aggregated emotional arousal during each story piece (slide) per participant</sub>
-</p>
+
 
 
 ### Eye-tracking
