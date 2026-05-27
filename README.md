@@ -137,7 +137,7 @@ Participants who viewed the individual story first tended to exhibit stronger ov
       <img src="./results/eda_plots/gender.png" width="400"><br>
       <sub>Gender differences</sub>
     </td>
-    <td align="center">
+    <td align="center" style="background-color: white">
       <img src="./results/eda_plots/groups-parallelCoords.png" width="400"><br>
       <sub>Emotional arousal trajectories</sub>
     </td>
@@ -147,7 +147,7 @@ Participants who viewed the individual story first tended to exhibit stronger ov
 <br>
 
 <p align="center">
-  <img src="./results/eda_plots/matrix-ind+gen-first.png" width="500"><br>
+  <img src="./results/eda_plots/matrix-ind+gen-first.png" width="600"><br>
   <sub>Aggregated emotional arousal during each story piece (slide) per participants</sub>
 </p>
 
