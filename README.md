@@ -125,7 +125,7 @@ Participants who viewed the individual story first tended to exhibit stronger ov
 
 ### EDA-related plots
 
-<table width="900">
+<table width="900" padding="10px>
   <tr>
     <td align="center">
       <figure>
@@ -142,7 +142,7 @@ Participants who viewed the individual story first tended to exhibit stronger ov
   </tr>
 </table>
 
-<table>
+<table width="900">
   <tr>
     <td align="center">
       <figure>
@@ -159,7 +159,7 @@ Participants who viewed the individual story first tended to exhibit stronger ov
   </tr>
 </table>
 
-<table>
+<table width="900">
   <tr>
     <td>
       <figure align="center">
