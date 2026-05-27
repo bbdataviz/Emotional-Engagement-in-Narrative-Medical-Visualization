@@ -118,6 +118,8 @@ Participants who viewed the individual story first tended to exhibit stronger ov
 ## 📸 Visualizations
 
 ### EDA-related plots
+
+|---|---|
 | ![Pirate plots for EDA data wrt story perspective](./results/eda_plots/ind-vs-gen.png) | ![Pirate plots for participants group](./results/eda_plots/groups.png)
 | Story perspective | Participant groups |
 | ![Pirate plots for EDA data wrt gender](./results/eda_plots/gender.png) | ![Parallel coordinates plots](./results/eda_plots/groups-parallelCoords.png)
