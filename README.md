@@ -120,15 +120,36 @@ Participants who viewed the individual story first tended to exhibit stronger ov
 ### EDA-related plots
 
 
-|---|---|
-| ![Pirate plots for EDA data wrt story perspective](./results/eda_plots/ind-vs-gen.png) | ![Pirate plots for participants group](./results/eda_plots/groups.png) |
-| Story perspective | Participant groups |
-| ![Pirate plots for EDA data wrt gender](./results/eda_plots/gender.png) | ![Parallel coordinates plots](./results/eda_plots/groups-parallelCoords.png) |
-| Gender | Increase or decline in emotional arousal |
-|---|---|
+<table>
+  <tr>
+    <td align="center">
+      <img src="./results/eda_plots/ind-vs-gen.png" width="400"><br>
+      <sub>Story perspective</sub>
+    </td>
+    <td align="center">
+      <img src="./results/eda_plots/groups.png" width="400"><br>
+      <sub>Participant groups</sub>
+    </td>
+  </tr>
 
-![Matrix Visualization of EDA data over time](./results/eda_plots/matrix-ind+gen-first.png)
-Aggregated emotional arousal during each story piece (slide) per particpants
+  <tr>
+    <td align="center">
+      <img src="./results/eda_plots/gender.png" width="400"><br>
+      <sub>Gender differences</sub>
+    </td>
+    <td align="center">
+      <img src="./results/eda_plots/groups-parallelCoords.png" width="400"><br>
+      <sub>Emotional arousal trajectories</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="./results/eda_plots/matrix-ind+gen-first.png" width="850"><br>
+  <sub>Aggregated emotional arousal during each story piece (slide) per participants</sub>
+</p>
 
 
 ### Eye-tracking
