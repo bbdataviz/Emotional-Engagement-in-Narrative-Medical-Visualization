@@ -169,18 +169,17 @@ Participants who viewed the individual story first tended to exhibit stronger ov
 
 ### Questionnaires
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="./results/questionnaire_plots/emotion-types-ind+gen.png" width="600"><br>
-      <sub>Emotion types</sub>
-    </td>
-    <td align="center">
-      <img src="./results/questionnaire_plots/user-engagement.png" width="200"><br>
-      <sub>User engagement summary</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./results/questionnaire_plots/emotion-types-ind+gen.png" width="600"><br>
+  <sub>Aggregated emotional arousal during each story piece (slide) per participants</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./results/questionnaire_plots/user-engagement.png" width="400"><br>
+  <sub>Aggregated emotional arousal during each story piece (slide) per participants</sub>
+</p>
 
 ---
 
