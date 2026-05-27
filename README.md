@@ -168,9 +168,8 @@ Participants who viewed the individual story first tended to exhibit stronger ov
       </figure>
     </td>
     <td align="center">
-      <figure>
-        <img src="./results/story_elements/level2.png" height="500"><br>
-        <figcaption>Story element summary</figcaption>
+      <figure src="./results/story_elements/level2.png" height="500">
+      <figcaption>Story element summary</figcaption>
       </figure>
     </td>
   </tr>
