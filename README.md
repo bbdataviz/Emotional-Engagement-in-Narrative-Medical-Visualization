@@ -125,15 +125,38 @@ Participants who viewed the individual story first tended to exhibit stronger ov
 
 ### EDA-related plots
 
-<style>
-  table td {
-    padding: 1em;
-  }
-</style>
+Add whitespace using empty rows or <br>
+
+For example:
 
 <table width="900">
   <tr>
-    <td align="center" style="padding: 10px">
+    <td><br></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <figure>
+        <img src="./results/eda_plots/ind-vs-gen.png" height="500"><br>
+        <figcaption>Story perspective</figcaption>
+      </figure>
+    </td>
+    <td align="center">
+      <figure>
+        <img src="./results/eda_plots/groups.png" height="500"><br>
+        <figcaption>Participant groups</figcaption>
+      </figure>
+    </td>
+  </tr>
+  <tr>
+    <td><br></td>
+    <td><br></td>
+  </tr>
+</table>
+
+<table width="900">
+  <tr>
+    <td align="center" style="padding: 1em">
       <figure>
         <img src="./results/eda_plots/ind-vs-gen.png" height="500"><br>
         <figcaption>Story perspective</figcaption>
