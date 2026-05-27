@@ -5,7 +5,7 @@ Quantitative analysis of electrodermal activity (EDA), eye-tracking, and questio
 The project analyzes physiological and behavioral responses to two interactive Hyperemesis gravidarum (HG) data stories:
 
 - an individual character-driven narrative
-- a generalized population-focused narrative
+- a generalized narrative perspective
 
 The repository contains selected preprocessing workflows, statistical analysis scripts, and summary datasets related to the accompanying master’s thesis.
 
@@ -17,7 +17,7 @@ This project investigates how personalization and narrative framing influence em
 
 The study explores whether including an individual protagonist representing a patient’s lived experience increases:
 
-- physiological emotional arousal
+- physiological arousal
 - empathic emotional responses
 - narrative engagement
 
@@ -40,7 +40,7 @@ compared to a generalized explanatory narrative.
 A mixed-methods study (N=26) combined:
 
 - electrodermal activity (EDA): EdaMove 4 sensor, Software: movisens DataAnalyzer
-- eye tracking: Tobii Pro Spark sensor, Software: Tobii Pro Lab 
+- eye-tracking: Tobii Pro Spark sensor, Software: Tobii Pro Lab 
 - questionnaires
   
 to investigate emotional engagement dynamics, viewing behavior, and self-reported emotional responses.
@@ -67,12 +67,12 @@ The project workflow follows four main stages:
 - signal preprocessing and phasic signal extraction
 - data quality checks and missing values handling
 - peak detection
-- variable computation, e.g., maximum peak in a story
+- variable computation, e.g., maximum amplitude in a story
 - temporal response aggregation by story sections
 - summary metric generation
 - statistical hypothesis testing
 
-### Eye Tracking
+### Eye-Tracking
 - synchronization and labeling
 - area-of-interest evaluation
 - statistical hypothesis testing
@@ -82,16 +82,19 @@ The project workflow follows four main stages:
 - engagement comparison
 - statistical hypothesis testing
 
-Statistical analysis was conducted in R using comparative statistical and mixed-effects approaches.
-
+Statistical analysis was conducted in R, depending on the data distribution and hypothesis formulation. 
+The analysis used t-test, Wilcoxon test, and effect sizes such as Cohen's d or odds ratio.
 ---
 
 ## 📊 Repository Contents
 
+```txt
 /data
 /scripts
 /statistics
 /results
+/visualizations
+```
 
 Included:
 
@@ -150,7 +153,7 @@ Participants who viewed the individual story first tended to exhibit stronger ov
 
 <p align="center">
   <img src="./results/eda_plots/matrix-ind+gen-first.png" width="600"><br>
-  <sub>Aggregated emotional arousal during each story piece (slide) per participants</sub>
+  <sub>Aggregated emotional arousal during each story piece (slide) per participant</sub>
 </p>
 
 
@@ -160,7 +163,7 @@ Participants who viewed the individual story first tended to exhibit stronger ov
   <tr>
     <td align="center">
       <img src="./results/story_elements/level1.png" height="500"><br>
-      <sub>Story element analysis on finer level</sub>
+      <sub>Story element analysis at detailed granularity</sub>
     </td>
     <td align="center">
       <img src="./results/story_elements/level2.png" height="500"><br>
@@ -173,14 +176,14 @@ Participants who viewed the individual story first tended to exhibit stronger ov
 
 <p align="center">
   <img src="./results/questionnaire_plots/emotion-types-ind+gen.png" width="600"><br>
-  <sub>Aggregated emotional arousal during each story piece (slide) per participants</sub>
+  <sub>Distribution of reported emotional response categories across story conditions</sub>
 </p>
 
 <br>
 
 <p align="center">
   <img src="./results/questionnaire_plots/user-engagement.png" width="600"><br>
-  <sub>Aggregated emotional arousal during each story piece (slide) per participants</sub>
+  <sub>Self-reported narrative engagement across story perspectives</sub>
 </p>
 
 ---
@@ -189,7 +192,7 @@ Participants who viewed the individual story first tended to exhibit stronger ov
 
 - Python
 - R
-- tidyverse, incl. ggplot2
+- tidyverse ecosystem, including ggplot2
 - R statistics packages, e.g., stats, effectsize
 
 ---
@@ -203,12 +206,15 @@ Participants who viewed the individual story first tended to exhibit stronger ov
 
 ## 🧠 What I Learned
 
-- synchronizing time-dependent data sets
-- applying statistics
-- missing data handling
-- data filtering and visualization in R and ggplot2
-- how to measure emotional engagement
-- organizing and conducting a lab study
+This project gave me practical experience with:
+
+- synchronizing multimodal time-dependent datasets
+- preprocessing and analyzing physiological sensor data
+- applying statistical analysis workflows in R
+- handling missing data
+- visualizing experimental results using ggplot2
+- designing and conducting a multimodal lab study
+- evaluating emotional engagement through physiological and behavioral measures
 
 ---
 
