@@ -152,39 +152,28 @@ For example:
   </tr>
 </table>
 
-<table align="center" width="900">
+<br>
+
+<table align="center">
   <tr>
-    <td>
-      <figure align="center">
-        <img src="./results/eda_plots/matrix-ind+gen-first.png" width="600"><br>
-        <figcaption>Aggregated emotional arousal during each story piece (slide) per participant</figcaption>
-      </figure>
+    <td align="center">
+      <img src="./results/eda_plots/matrix-ind+gen-first.png" width="600"><br>
+      <em>Aggregated emotional arousal during each story piece (slide) per participant</em>
     </td>
   </tr>
 </table>
-  
-
-
-<br>
-
-
-
 
 ### Eye-tracking
 
 <table>
   <tr>
     <td align="center">
-      <figure>
-        <img src="./results/story_elements/level1.png" width="500"><br>
-        <figcaption>Story element analysis related to the three highest EDA amplitudes per participant with detailed granularity</figcaption>
-      </figure>
+      <img src="./results/story_elements/level1.png" width="500"><br>
+      <em>Story element analysis related to the three highest EDA amplitudes per participant with detailed granularity</em>
     </td>
     <td align="center">
-      <figure> 
-        <img src="./results/story_elements/level2.png" width="500"><br>
-        <figcaption>Story element summary</figcaption>
-      </figure>
+      <img src="./results/story_elements/level2.png" width="500"><br>
+      <em>Story element summary</em>
     </td>
   </tr>
 </table>
@@ -193,14 +182,14 @@ For example:
 
 <p align="center">
   <img src="./results/questionnaire_plots/emotion-types-ind+gen.png" width="600"><br>
-  <sub>Distribution of reported emotional response categories across story conditions</sub>
+  <em>Distribution of reported emotional response categories across story conditions</em>
 </p>
 
 <br>
 
 <p align="center">
   <img src="./results/questionnaire_plots/user-engagement.png" width="600"><br>
-  <sub>Self-reported narrative engagement across story perspectives</sub>
+  <em>Self-reported narrative engagement across story perspectives</em>
 </p>
 
 ---
