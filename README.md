@@ -39,8 +39,8 @@ compared to a generalized explanatory narrative.
 
 A mixed-methods study (N=26) combined:
 
-- electrodermal activity (EDA)
-- eye tracking
+- electrodermal activity (EDA): EdaMove 4 sensor, Software: movisens DataAnalyzer
+- eye tracking: Tobii Pro Spark sensor, Software: Tobii Pro Lab 
 - questionnaires
   
 to investigate emotional engagement dynamics, viewing behavior, and self-reported emotional responses.
@@ -64,16 +64,18 @@ The project workflow follows four main stages:
 4. result visualization
 
 ### Electrodermal Activity (EDA)
-- signal preprocessing
-- phasic signal extraction
+- signal preprocessing and phasic signal extraction
+- data quality checks and missing values handling
 - peak detection
-- temporal response aggregation
+- variable computation, e.g., maximum peak in a story
+- temporal response aggregation by story sections
 - summary metric generation
+- statistical hypothesis testing
 
 ### Eye Tracking
-- fixation analysis
-- gaze behavior analysis
+- synchronization and labeling
 - area-of-interest evaluation
+- statistical hypothesis testing
 
 ### Questionnaire Analysis
 - emotional valence analysis
@@ -201,7 +203,12 @@ Participants who viewed the individual story first tended to exhibit stronger ov
 
 ## 🧠 What I Learned
 
-[coming soon]
+- synchronizing time-dependent data sets
+- applying statistics
+- missing data handling
+- data filtering and visualization in R and ggplot2
+- how to measure emotional engagement
+- organizing and conducting a lab study
 
 ---
 
