@@ -127,7 +127,7 @@ Participants who viewed the individual story first tended to exhibit stronger ov
 
 <table width="900">
   <tr>
-    <td align="center" padding="10">
+    <td align="center" style="padding: 10px">
       <figure>
         <img src="./results/eda_plots/ind-vs-gen.png" height="500"><br>
         <figcaption>Story perspective</figcaption>
