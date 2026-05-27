@@ -163,20 +163,24 @@ For example:
   </tr>
 </table>
 
+<br>
+
 ### Eye-tracking
 
 <table>
   <tr>
     <td align="center">
-      <img src="./results/story_elements/level1.png" width="500"><br>
+      <img src="./results/story_elements/level1.png" height="500"><br>
       <em>Story element analysis related to the three highest EDA amplitudes per participant with detailed granularity</em>
     </td>
     <td align="center">
-      <img src="./results/story_elements/level2.png" width="500"><br>
+      <img src="./results/story_elements/level2.png" height="500"><br>
       <em>Story element summary</em>
     </td>
   </tr>
 </table>
+
+<br>
 
 ### Questionnaires
 
