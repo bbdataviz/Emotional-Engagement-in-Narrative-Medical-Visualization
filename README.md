@@ -63,6 +63,8 @@ The project workflow follows four main stages:
 3. statistical evaluation
 4. result visualization
 
+![Analysis workflow](./visualizations/analysis-workflow.png)
+
 ### Electrodermal Activity (EDA)
 - signal preprocessing and phasic signal extraction
 - data quality checks and missing values handling
